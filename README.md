@@ -1,2 +1,14 @@
-# UserManagementAPI
-Developed a User Management API using ASP.NET Core with full CRUD functionality, validation, middleware (logging, authentication, error handling), and optimized performance. Microsoft Copilot was used to accelerate development, debug issues, and enhance code quality.
+# User Management API
+
+## Overview
+A RESTful API built using ASP.NET Core to manage users with CRUD operations, validation, middleware, and Copilot assistance.
+
+## Features
+- CRUD operations
+- Validation
+- Logging middleware
+- Error handling middleware
+- Authentication middleware
+
+## Run
+dotnet run
